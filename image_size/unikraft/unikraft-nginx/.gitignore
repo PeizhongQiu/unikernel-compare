@@ -1,0 +1,6 @@
+/.config*
+/fs0/nginx/logs/
+/build/
+/.unikraft/
+/workdir/
+/rootfs.cpio

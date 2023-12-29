@@ -8,5 +8,8 @@ cd $WORKDIR
 
 mkdir -p results
 
-echo "Running unikraft..."
-./unikraft/imgsize.sh
+# echo "Running unikraft..."
+# ./unikraft/imgsize.sh
+
+echo "Running linux user..."
+./linux-user/imgsize.sh
