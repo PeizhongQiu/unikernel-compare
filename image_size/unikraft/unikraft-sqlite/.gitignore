@@ -1,0 +1,5 @@
+/.config*
+/build/
+/.unikraft/
+/rootfs.cpio
+/workdir/
